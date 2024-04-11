@@ -16,10 +16,10 @@ By utilizing APIs, Python libraries, html and a PostgreSQL database, the purpose
 File Organization in our GitHub Repository
 --
 - Project_3_Yelp_CSVs Folder: The CSV files of the data gathered from Yelp. Cleaned and structured.
-- "project_3_joel_foursquare" Folder: XXXXXXXXXX
-- "selenas_data_cleaned_mapped" Folder: XXXXXXXXXX
+- "project_3_joel_foursquare" Folder: The CSV files of the data gathered from Foursquare. Also includes our Jupyter notebook for transforming the Foursquare. 
+- "selenas_data_cleaned_mapped" Folder: Contains the "Yelp Academic Dataset" CSV (selena_json.csv), our HTML code file used to create our Leaflet map (restaurants_map.html), the jupyter notebook used to tranform and clean our Yelp Academic Dataset records. 
 
-The rest of the files outside of our project folders include our powerpoint presentation, our Entity Relationship Diagram (ERD), and relevant XXXXXXXXXXX
+The rest of our files outside of the project folders include our powerpoint presentation, our Entity Relationship Diagram (ERD), files used for pictures within our presenation as well as the jupyter notebook used to set up a connection between our database and the notebook (Project 3 Jupyter Notebook). Lastly, our files include the jupyter notebook we used to transform and clean our YELP API data. 
 
 Yelp Dataset
 --

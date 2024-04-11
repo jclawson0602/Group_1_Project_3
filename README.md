@@ -17,6 +17,19 @@ File Organization in our GitHub Repository
 --
 - Project_3_Yelp_CSVs Folder: The CSV files of the data gathered from Yelp. Cleaned and structured.
 - "project_3_joel_foursquare" Folder:
-- "selenas
+- "selenas_data_cleaned_mapped" Folder: 
 
 The rest of the files outside of our project folders include our powerpoint presentation, our Entity Relationship Diagram (ERD), and relevant 
+
+Yelp Dataset
+--
+In this project, the team utilized Yelp’s academic dataset. This dataset was saved in a Tape Archive Format (TAR) which allows multiple JSON datasets to be saved to an uncompressed archive file.  Due to the large size of the dataset file (9 gigabytes) we used a software utility program called 7-ZIP (7-ZIP.org) which was used to access the data. Through the 7-ZIP software program, the JSON data was saved into the following formats: SQL, CSV and Text. 
+
+
+Data References
+--
+References for our data include Yelp (https://api.yelp.com/v3), Yelp’s open dataset (www.yelp.com/dataset), and Foursquare (https://api.foursquare.com/v3/places/search). For our API sources, we used Yelp’s fusion API and Foursquare’s Places API.
+
+Leaflet Map
+--
+Using the Yelp dataset and the Folium library, we were able to create a leaflet map. Folium was used to write the HTML code for our map in a jupyter notebook along with the latitudes and longitudes of locations from restaurants within our Yelp dataset. 

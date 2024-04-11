@@ -15,4 +15,8 @@ By utilizing APIs, Python libraries, html and a PostgreSQL database, the purpose
 
 File Organization in our GitHub Repository
 --
-- Project_3_Yelp_CSVs Folder: The CSV files of the data gathered from Yelp including DataFrames from Chicago, Los Angeles 
+- Project_3_Yelp_CSVs Folder: The CSV files of the data gathered from Yelp. Cleaned and structured.
+- "project_3_joel_foursquare" Folder:
+- "selenas
+
+The rest of the files outside of our project folders include our powerpoint presentation, our Entity Relationship Diagram (ERD), and relevant 

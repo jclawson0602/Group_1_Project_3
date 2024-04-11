@@ -13,3 +13,6 @@ For our project, we focused on following the data engineering process to extract
 
 By utilizing APIs, Python libraries, html and a PostgreSQL database, the purpose of our project was to create a map using restaurant data along with storing said data for future use through SQLAlchemy and to display our skills in creating an ETL pipeline. Originally, our goal was to get data from 5 or more sources and compare their records; however, complications with setting up APIs had redirected our goal to its current state. 
 
+File Organization in our GitHub Repository
+--
+- Project_3_Yelp_CSVs Folder: The CSV files of the data gathered from Yelp including DataFrames from Chicago, Los Angeles 

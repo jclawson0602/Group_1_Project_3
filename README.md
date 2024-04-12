@@ -30,6 +30,18 @@ Data References
 --
 References for our data include Yelp (https://api.yelp.com/v3), Yelp’s open dataset (www.yelp.com/dataset), and Foursquare (https://api.foursquare.com/v3/places/search). For our API sources, we used Yelp’s fusion API and Foursquare’s Places API.
 
+Data Sources we reviewed
+--
+Yelp fusion API
+Trip Advisor API
+Foursquare Places API
+Google Places API
+Door Dash
+Viator
+Open Table
+Expedia API
+Zomato API – Foreign (India and UAE Only)
+
 Leaflet Map
 --
 Using the Yelp dataset and the Folium library, we were able to create a leaflet map. Folium was used to write the HTML code for our map in a jupyter notebook along with the latitudes and longitudes of locations from restaurants within our Yelp dataset. 

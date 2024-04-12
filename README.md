@@ -32,15 +32,7 @@ References for our data include Yelp (https://api.yelp.com/v3), Yelp’s open da
 
 Data Sources we reviewed
 --
-Yelp fusion API
-Trip Advisor API
-Foursquare Places API
-Google Places API
-Door Dash
-Viator
-Open Table
-Expedia API
-Zomato API – Foreign (India and UAE Only)
+Yelp fusion API, Trip Advisor API, Foursquare Places API, Google Places API, Door Dash, Viator, Open Table, Expedia API, Zomato API – Foreign (India and UAE Only)
 
 Leaflet Map
 --
